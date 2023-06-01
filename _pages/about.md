@@ -2,25 +2,29 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.linkedin.com/in/nishantikagarg/'>LinkedIn</a> | <a href='mailto:nishantikagarg@gmail.com'>Mail</a> | 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Delhi, India</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Software Developer with three years of dedicated experience working at [Nutanix](https://www.nutanix.com/). Throughout my tenure, I have actively contributed to the development of the API development framework utilized in [Nutanix's latest v4 APIs](https://www.nutanix.dev/api-reference-v4/). I hold a Bachelor of Engineering (B.E.) degree in Electronics and Electrical Engineering from [BITS Pilani, Goa Campus](https://www.bits-pilani.ac.in/goa/), which has provided me with a solid foundation for my professional endeavors.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Beyond my role as a Software Developer, I maintain a blog through [Medium](https://medium.com/@nishantikagarg). On this platform, I share my perspectives and learnings on a wide range of topics. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Additionally, I pursuemy my passion for art by running an art page on [Instagram](https://www.instagram.com/bynishantika/) where I showcase my amateur artwork.
+
+Should you have any inquiries or wish to connect, please feel free to reach out to me via [email](mailto:nishantikagarg@gmail.com). 
+
+For a comprehensive overview of my qualifications and experiences, I invite you to refer to my [resume](/assets/pdf/NishantikaGargResume2023.pdf). 
+
+Thank you for visiting, and I look forward to connecting with you!
