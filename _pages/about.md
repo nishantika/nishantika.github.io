@@ -6,7 +6,7 @@ subtitle: <a href='https://www.linkedin.com/in/nishantikagarg/'>LinkedIn</a> | <
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: nishantika.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>Delhi, India</p>
