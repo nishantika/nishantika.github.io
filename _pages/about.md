@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.linkedin.com/in/nishantikagarg/'>LinkedIn</a> | <a href='mailto:nishantikagarg@gmail.com'>Mail</a> | 
+subtitle: <a href='https://www.linkedin.com/in/nishantikagarg/'>LinkedIn</a> | <a href='mailto:nishantikagarg@gmail.com'>Mail</a>
 
 profile:
   align: right
@@ -25,6 +25,10 @@ Additionally, I pursuemy my passion for art by running an art page on [Instagram
 
 Should you have any inquiries or wish to connect, please feel free to reach out to me via [email](mailto:nishantikagarg@gmail.com). 
 
-For a comprehensive overview of my qualifications and experiences, I invite you to refer to my [resume](/assets/pdf/NishantikaGargResume2023.pdf). 
+For a comprehensive overview of my qualifications and experiences, I invite you to refer to my [resume](/resume). 
 
 Thank you for visiting, and I look forward to connecting with you!
+
+
+
+
