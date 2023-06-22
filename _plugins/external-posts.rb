@@ -26,7 +26,7 @@ module ExternalPosts
             doc.data['description'] = e.summary;
             doc.data['date'] = e.published;
             doc.data['redirect'] = e.url;
-            doc.data['tags'] = e.category
+            doc.data['categories'] = e.categories
             site.collections['posts'].docs << doc
           end
         end
