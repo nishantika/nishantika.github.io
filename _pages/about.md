@@ -23,7 +23,7 @@ I am a Software Developer with three years of dedicated experience working at [N
 
 Beyond my role as a Software Developer, I maintain a blog through [Medium](https://medium.com/@nishantikagarg). On this platform, I share my perspectives and learnings on a wide range of topics. 
 
-Additionally, I pursuemy my passion for art by running an art page on [Instagram](https://www.instagram.com/bynishantika/) where I showcase my amateur artwork.
+Additionally, I pursue my passion for art by running an art page on [Instagram](https://www.instagram.com/bynishantika/) where I showcase my amateur artwork.
 
 Should you have any inquiries or wish to connect, please feel free to reach out to me via [email](mailto:nishantikagarg@gmail.com). 
 
